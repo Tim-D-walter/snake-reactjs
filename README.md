@@ -4,6 +4,12 @@ A simple browser-based **Snake Game** built with **Next.js** and React Hooks —
 
 ---
 
+## 🖼️ Preview
+
+![Snake Game demo](public/snakegamepreview.png)
+
+---
+
 ## 🚀 Features
 
 - Built entirely with **React + Next.js (App Router)**
